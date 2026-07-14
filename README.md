@@ -183,21 +183,6 @@ SE2026-Officer-Plotting/
 
 ---
 
-# Business Rules
-
-The allocation process follows several operational rules:
-
-- Maximum **20 SLS** per officer.
-- Workloads are balanced according to:
-  - Number of households
-  - Estimated business units
-  - Number of SLS
-- SLS with **0 households** and **0 business units** are excluded.
-- Excess workloads are transferred to neighboring villages whenever possible.
-- If necessary, transfers continue across neighboring subdistricts and districts.
-
----
-
 # Validation
 
 The allocation results are evaluated using:
