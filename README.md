@@ -21,7 +21,7 @@ A statistical simulation and heuristic optimization framework for balanced field
 
 # Overview
 
-This repository presents a simulation framework for allocating field officers in the **2026 Economic Census (SE2026)** conducted by **Statistics Indonesia (BPS)**.
+This repository presents a simulation framework for allocating field officers in the **Sensus Ekonomi 2026 (SE2026)** conducted by **Badan Pusat Statistitik (BPS)**.
 
 The objective is to distribute census officers across **Satuan Lingkungan Setempat (SLS)** while maintaining a balanced workload based on multiple operational indicators, including:
 
@@ -42,7 +42,7 @@ The workflow integrates **Microsoft Excel**, **R**, and **Python** for data prep
 >
 > This repository is intended solely for educational and portfolio purposes.
 >
-> The original datasets used during my internship at **Statistics Indonesia (BPS)** are confidential and are **not included** in this repository. Any data provided in this repository are sample or synthetic data created for demonstration purposes only.
+> The original datasets used during my internship at **Badan Pusat Statistik (BPS)** are confidential and are **not included** in this repository. Any data provided in this repository are sample or synthetic data created for demonstration purposes only.
 
 ---
 
@@ -305,13 +305,13 @@ This project demonstrates practical experience in:
 
 This repository is intended for educational and portfolio purposes only.
 
-The original implementation was developed during an internship at **Statistics Indonesia (BPS)**. Confidential information and original datasets have been removed before publication.
+The original implementation was developed during an internship at **Badan Pusat Statostik (BPS)**. Confidential information and original datasets have been removed before publication.
 
 ---
 
 # Acknowledgement
 
-This project was developed during my internship at **Statistics Indonesia (BPS) – West Java Province** as part of the preparation for the **2026 Economic Census (SE2026)**.
+This project was developed during my internship at **Badan Pusat Statistik (BPS) – West Java Province** as part of the preparation for the **Sensus Ekonomi 2026 (SE2026)**.
 
 The published version has been adapted for portfolio purposes by replacing confidential information with sample or synthetic data while preserving the overall analytical workflow.
 
