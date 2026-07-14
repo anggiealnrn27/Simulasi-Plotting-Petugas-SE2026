@@ -290,7 +290,7 @@ This project demonstrates practical experience in:
 
 This repository is intended for educational and portfolio purposes only.
 
-The original implementation was developed during an internship at **Badan Pusat Statostik (BPS)**. Confidential information and original datasets have been removed before publication.
+The original implementation was developed during an internship at **Badan Pusat Statistik (BPS)**. Confidential information and original datasets have been removed before publication.
 
 ---
 
